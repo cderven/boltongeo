@@ -5,7 +5,7 @@
     {
       "name": "BoltonGeo",
       "format": "LINKED_PLACES",
-      "src": "./data/boltongeoDataset.lp.json",
+      "src": "./data/Peripleo_Data_1684573905.json",
       "attribution": "BoltonGeo © Glucksman"
     }
   ],
